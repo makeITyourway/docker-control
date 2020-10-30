@@ -1,2 +1,2 @@
 # docker-control
-Manage "stand alone" docker containers from shell
+A shell script to manage stand alone docker containers from the bash.
